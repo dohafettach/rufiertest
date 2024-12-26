@@ -1,0 +1,2 @@
+class TestWin(QWidget):
+    pass
